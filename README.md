@@ -17,7 +17,7 @@ This project is a front-end clone of Google’s Search, Image Search, and Advanc
 
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/google-search-clone.git
+   [git clone https://github.com/YOUR_USERNAME/google-search-clone.git](https://github.com/Montasir00/Echo_Search.git)
   Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
 ## How to Use
 
