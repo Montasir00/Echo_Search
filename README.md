@@ -1,2 +1,32 @@
 # Echo_Search
 This project is a front-end clone of Google’s Search, Image Search, and Advanced Search pages. The goal is to replicate the functionality of Google’s search interface, including redirecting users to Google search results based on their query. This project is part of the CS50 Web Programming course.
+## Features
+
+- **Google Search Page**: Users can input a search query and be redirected to the Google search results page.
+- **Google Image Search Page**: Users can input a query and be redirected to Google’s image search results.
+- **Google Advanced Search Page**: Users can refine their search with multiple filters and be redirected to Google’s advanced search results.
+- **"I'm Feeling Lucky" Button**: This button directs users to the first result from a Google search without showing the full results page.
+
+## Pages
+
+1. **Google Search (index.html)**: A simple search bar that submits the query to `https://www.google.com/search`.
+2. **Google Image Search (image.html)**: A form that submits search queries to `https://www.google.com/search?tbm=isch`.
+3. **Google Advanced Search (advanced.html)**: A form with filters for advanced search options, redirecting users to Google’s advanced search results.
+
+## Installation
+
+1. Clone the repository or download the ZIP file:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/google-search-clone.git
+  Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
+## How to Use
+
+1. Open `index.html` in your browser.
+2. Type a search term in the input field and click **Google Search** to be redirected to the Google search results.
+3. Alternatively, visit the **Google Image Search** or **Google Advanced Search** pages to perform specialized searches.
+
+## Technologies Used
+
+- **HTML**: Structure of the pages.
+- **CSS**: Styling the pages to resemble Google’s interface.
+- **Forms**: Used to collect and send search data to Google via GET parameters.
