@@ -38,7 +38,7 @@ This project is a front-end clone of Google’s Search, Image Search, and Advanc
 - **CSS**: Styling the pages to resemble Google’s interface.
 - **Forms**: Used to collect and send search data to Google via GET parameters.
 
-- ## Screenshot
+## Screenshot
 ![Project Screenshot](pictures/index.png)
 ![Project Screenshot](pictures/Echo_image_search.png)
 ![Project Screenshot](pictures/Echo_Advanced_Search.png)
