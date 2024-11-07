@@ -5,16 +5,15 @@ This project is a front-end clone of Google’s Search, Image Search, and Advanc
 
 ## Features
 
-- **Google Search Page**: Users can input a search query and be redirected to the Google search results page.
-- **Google Image Search Page**: Users can input a query and be redirected to Google’s image search results.
-- **Google Advanced Search Page**: Users can refine their search with multiple filters and be redirected to Google’s advanced search results.
-- **"I'm Feeling Lucky" Button**: This button directs users to the first result from a Google search without showing the full results page.
+- **Echo Search Page**: Users can input a search query and be redirected to the Google search results page.
+- **Echo Image Search Page**: Users can input a query and be redirected to Google’s image search results.
+- **Echo Advanced Search Page**: Users can refine their search with multiple filters and be redirected to Google’s advanced search results.
 
 ## Pages
 
-1. **Google Search (index.html)**: A simple search bar that submits the query to `https://www.google.com/search`.
-2. **Google Image Search (image.html)**: A form that submits search queries to `https://www.google.com/search?tbm=isch`.
-3. **Google Advanced Search (advanced.html)**: A form with filters for advanced search options, redirecting users to Google’s advanced search results.
+1. **Echo Search (index.html)**: A simple search bar that submits the query to `https://www.google.com/search`.
+2. **Echo Image Search (image.html)**: A form that submits search queries to `https://www.google.com/search?tbm=isch`.
+3. **Echo Advanced Search (advanced.html)**: A form with filters for advanced search options, redirecting users to Google’s advanced search results.
 
 ## Installation
 
@@ -23,8 +22,8 @@ This project is a front-end clone of Google’s Search, Image Search, and Advanc
    ```bash
 
    https://github.com/Montasir00/Echo_Search.git
-
-    Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
+   
+Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
 
 ## How to Use
 
