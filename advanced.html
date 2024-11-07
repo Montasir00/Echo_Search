@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Echo Advanced Search</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <form action="https://www.google.com/search" method="GET" class="form">
+        <div class="title">Echo Advance Search</div>
+        <label for="q">All these words</label>
+        <input type="text" name="q" placeholder="Search all these words" class="input">
+
+        <label for="as_epq">This exact word or phrase:</label>
+        <input type="text" name="as_epq" placeholder="Exact phrase" class="input">
+
+        <label for="as_oq">Any of these words:</label>
+        <input type="text" name="as_oq" placeholder="Any of these words" class="input">
+
+        <label for="as_eq">None of these words:</label>
+        <input type="text" name="as_eq" placeholder="Exclude these words" class="input">
+
+        <button class="button-confirm">Search</button>
+    </form>
+
+    <div class="links">
+        <a href="index.html">Echo Search</a>
+        <a href="image.html">Echo Image Search</a>
+    </div>
+</body>
+</html>

@@ -1,5 +1,8 @@
+
 # Echo_Search
+
 This project is a front-end clone of Google’s Search, Image Search, and Advanced Search pages. The goal is to replicate the functionality of Google’s search interface, including redirecting users to Google search results based on their query. This project is part of the CS50 Web Programming course.
+
 ## Features
 
 - **Google Search Page**: Users can input a search query and be redirected to the Google search results page.
@@ -16,14 +19,18 @@ This project is a front-end clone of Google’s Search, Image Search, and Advanc
 ## Installation
 
 1. Clone the repository or download the ZIP file:
+
    ```bash
+
    https://github.com/Montasir00/Echo_Search.git
-  Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
+
+    Open the index.html, image.html, or advanced.html in your browser to view the pages locally.
+
 ## How to Use
 
 1. Open `index.html` in your browser.
-2. Type a search term in the input field and click **Google Search** to be redirected to the Google search results.
-3. Alternatively, visit the **Google Image Search** or **Google Advanced Search** pages to perform specialized searches.
+2. Type a search term in the input field and click **Search** to be redirected to the Google search results.
+3. Alternatively, visit the **Echo Image Search** or **Echo Advanced Search** pages to perform specialized searches.
 
 ## Technologies Used
 
